@@ -2,7 +2,8 @@ class MyThread extends Thread {
 
     public void run() {
         System.out.println("running...");
-        System.out.println("running...new 1");
+        System.out.println("First try real time programming for asad razaa");
+        System.out.println("240898");
     }
 
     public static void main(String args[]) {
